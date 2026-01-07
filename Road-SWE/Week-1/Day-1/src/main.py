@@ -1,0 +1,1 @@
+print("Week 1 - Day 1: Environment Setup Complete!") 
